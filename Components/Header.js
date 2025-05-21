@@ -15,6 +15,9 @@ const Header = (props) => {
         <Link href="/Components" className="hover:text-black">
           Components
         </Link>
+        <Link href="/SEO" className="hover:text-black">
+          SEO
+        </Link>
         <Link href="/Tools" className="hover:text-black">
           Tools
         </Link>

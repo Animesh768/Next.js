@@ -35,6 +35,7 @@ const Header = ({ user, edit }) => {
           <Link href="/Components" className="hover:text-gray-400 text-lg sm:text-xl">Components</Link>
           <Link href="/Tools" className="hover:text-gray-400 text-lg sm:text-xl">Tools</Link>
           <Link href="/Blog" className="hover:text-gray-400 text-lg sm:text-xl">Blog</Link>
+          <Link href="/SEO" className="hover:text-gray-400 text-lg sm:text-xl">SEO</Link>
         </nav>
       </header>
 
